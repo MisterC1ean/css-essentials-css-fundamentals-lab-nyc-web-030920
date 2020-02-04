@@ -18,7 +18,9 @@ nav {
   padding-right: 10px;
   background: purple;
 }
-
+figcaption {
+  font-size: 8px;
+}
 #featured-property > p {
   width: 900px;
 }
